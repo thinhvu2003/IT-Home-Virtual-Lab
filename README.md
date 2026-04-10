@@ -1,1 +1,1 @@
-# IT-Home-Virtual-Lab
+# IT-Virtual-Lab
